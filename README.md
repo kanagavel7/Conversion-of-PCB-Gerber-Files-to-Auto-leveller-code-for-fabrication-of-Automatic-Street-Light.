@@ -4651,8 +4651,6 @@ M02
 ### Cut G Code 
 
 ```
-
-```
 M6Tx
 G54
 G0 X0 Y0
@@ -4670,6 +4668,7 @@ G00 X00 Y00
 M05
 M02
 %
+```
 
 ## RESULT:
 Thus, the Gerber files of the automatic street light control circuit were successfully converted into CNC G-Code and G-Code into Auto leveller Code for accurate and high-quality PCB engraving, drilling, and cutting using the CNC machine.
